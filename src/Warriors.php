@@ -1,4 +1,7 @@
 <?php 
+namespace App\classes;
+
+use App\classes\Interfaces\WarriorsInterface;
 
 abstract class Warriors implements WarriorsInterface 
 {

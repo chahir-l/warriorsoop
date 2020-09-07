@@ -1,7 +1,8 @@
 <?php
-namespace App;
 
-use App\Interfaces\WarriorsInterface;
+namespace App\classes;
+
+use App\classes\Interfaces\WarriorsInterface;
 
 
 class Monster implements WarriorsInterface

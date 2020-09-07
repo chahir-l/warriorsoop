@@ -1,5 +1,9 @@
 <?php 
 
+namespace App\classes;
+
+use App\classes\Interfaces\WarriorsInterface;
+
 class Knight extends Warriors 
 {
     protected $lifeEnergy = 150;
