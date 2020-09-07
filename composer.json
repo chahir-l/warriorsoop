@@ -1,0 +1,16 @@
+{
+    "name": "chahir/warriorsoop",
+    "description": "Simple implementation warriors games",
+    "authors": [
+        {
+            "name": "chahir",
+            "email": "cloukili62@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "classes"
+        }
+    }
+}
